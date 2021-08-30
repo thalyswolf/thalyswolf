@@ -14,7 +14,7 @@ My name is Wolf ... Thalys Wolf and I'm Software Engineer at AtarB2B. Thalys is 
  2. ✅ Kubernetes
  3. ✅ Clean Code
  4. ✅ Linux
- 5. ✅ Google Cloud Platform  and Multi Cloud Architeture
+ 5. ✅ Google Cloud Platform  and Multi Cloud Architecture
  6. ✅ Devops
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-407294?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalys-wolf-03837561/)](https://www.linkedin.com/in/thalys-wolf-03837561/) 
