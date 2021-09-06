@@ -4,7 +4,7 @@
 My name is Wolf ... Thalys Wolf and I'm Software Engineer at AtarB2B. Thalys is enthusiastic of tech.
 
 ### Main Professional Skills
- 1. ✅ Python | PHP | Javascript | HTML| CSS
+ 1. ✅ Python | PHP | Javascript | HTML | CSS
  2. ✅ Kubernetes
  3. ✅ Clean Code
  4. ✅ Linux
