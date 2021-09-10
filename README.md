@@ -22,7 +22,7 @@ I feel very excited when I be in a new challenge, I have experience in developin
 5. 🛣 Travel
 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=thalyswolf&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thalyswolf&layout=compact)](https://github.com/thalyswolf)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-407294?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalys-wolf-03837561/)](https://www.linkedin.com/in/thalys-wolf-03837561/) 
 [![Gmail Badge](https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalyswolf01+github@gmail.com)](mailto:thalyswolf01+github@gmail.com)
