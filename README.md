@@ -21,6 +21,6 @@ I feel very excited when Im in a new challenge, I have experience in developing 
 4. 💻 Programming
 5. 🛣 Travel
 
-
+### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-407294?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalys-wolf-03837561/)](https://www.linkedin.com/in/thalys-wolf-03837561/) 
 [![Gmail Badge](https://img.shields.io/badge/-Email-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalyswolf01+github@gmail.com)](mailto:thalyswolf01+github@gmail.com)
