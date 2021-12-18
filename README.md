@@ -1,7 +1,7 @@
 ## Hey 👋
 
 ### About me
-My name is Wolf ... Thalys Wolf and I'm Software Engineer at AtarB2B. Thalys is enthusiastic of tech.
+My name is Wolf ... Thalys Wolf and I'm Software Engineer. Thalys is enthusiastic of tech.
 
 ### Main Professional Skills
  1. ✅ Python | PHP | Javascript | HTML | CSS
@@ -12,7 +12,7 @@ My name is Wolf ... Thalys Wolf and I'm Software Engineer at AtarB2B. Thalys is 
  6. ✅ Devops
 
 ### Professional description
-I feel very excited when Im in a new challenge, I have experience in developing telecommunication's systems, CRM, financial's systems and BaaS (Bank as a Service). I currently work in a digital bank on Brazil 🇧🇷🇧🇷.
+I feel very excited when Im in a new challenge, I have experience in developing telecommunication's systems, CRM, financial's systems and BaaS (Bank as a Service).
 
 ### Hobbies
 1. 🚵‍ Ride a bike 
